@@ -18,6 +18,8 @@ import Alamofire
 import KakaoSDKCommon
 import KakaoSDKTemplate
 
+import UIKit
+
 /// 카카오링크 호출을 담당하는 클래스입니다.
 public class LinkApi {
     
